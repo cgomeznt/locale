@@ -48,12 +48,12 @@
 	Generation complete.
 ```
 ```
-# locale -a
-C
-C.UTF-8
-es_VE.utf8
-POSIX
-zh_CH.utf8
+	# locale -a
+	C
+	C.UTF-8
+	es_VE.utf8
+	POSIX
+	zh_CH.utf8
 ```
 ```
 	# update-locale LANG=es_VE.utf8 LANGUAGE=es_VE.utf8 LC_ALL=es_VE.utf8
@@ -79,6 +79,7 @@ zh_CH.utf8
 	# man
 	您需要什么手册页？
 ```
+
 
 
 
